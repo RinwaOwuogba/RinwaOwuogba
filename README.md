@@ -10,7 +10,7 @@ the way, I'll probably fix it and make the process smoother for the next person.
 
 - I write about engineering, web3, and building software in the agentic era at **[bolarinwa.me](https://bolarinwa.me)**
 - Working mostly in **TypeScript / React**, **Go**, and **Node**
-- Reach me on **[LinkedIn](https://www.linkedin.com/in/bolarinwa-owuogba-12952816a)**
+- Reach me on **[LinkedIn](https://www.linkedin.com/in/bolarinwa-owuogba)**
 
 #### A few things I've built
 - **[secret-broker](https://github.com/RinwaOwuogba/secret-broker)** is a credential-injecting proxy, so an AI agent can call third-party APIs without ever holding the keys.
