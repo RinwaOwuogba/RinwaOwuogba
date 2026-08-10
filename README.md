@@ -1,6 +1,6 @@
 ### Hi, I'm Bolarinwa 👋
 
-Full-stack engineer, six years. I work across the whole stack — React and TypeScript on
+Full-stack engineer, six years. I work across the whole stack, React and TypeScript on
 the front, Go services and infrastructure behind. My work spans fintech, crypto/web3, and
 developer tooling.
 
@@ -13,7 +13,7 @@ the way, I'll probably fix it and make the process smoother for the next person.
 - Reach me on **[LinkedIn](https://www.linkedin.com/in/bolarinwa-owuogba-12952816a)**
 
 #### A few things I've built
-- **[resgen](https://github.com/RinwaOwuogba/resgen)** — an ATS-safe résumé pipeline: YAML → polished PDF/DOCX with per-company overlays and an automated scorecard.
-- **[kora-copilot](https://github.com/RinwaOwuogba/kora-copilot)** — an AI analyst copilot demo for a fintech operations team.
-- **[NameOuterSpace](https://github.com/RinwaOwuogba/NameOuterSpace)** — a filesystem search engine written in C#.
-- **[cloud-resume-challenge](https://github.com/RinwaOwuogba/cloud-resume-challenge)** — a cloud résumé built on Go, GCP, and Terraform.
+- **[secret-broker](https://github.com/RinwaOwuogba/secret-broker)** is a credential-injecting proxy, so an AI agent can call third-party APIs without ever holding the keys.
+- **[kora-copilot](https://github.com/RinwaOwuogba/kora-copilot)** is an AI analyst for a fintech operations team, built so the model never touches a number and customer identity never reaches it.
+- **[resgen](https://github.com/RinwaOwuogba/resgen)** turns a YAML résumé into polished PDF/DOCX, with per-company overlays and an automated ATS scorecard.
+- **[meteora-bot](https://github.com/RinwaOwuogba/meteora-bot)** mines and analyses Solana liquidity-pool data behind a dashboard and a Telegram bot.
